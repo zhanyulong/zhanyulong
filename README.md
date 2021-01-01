@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="635" src="https://github.com/zhanyulong/zhanyulong/blob/main/code.gif?raw=true" alt="Hey I'm zhanyulong">
+  <img width="635" src="https://github.com/zhanyulong/zhanyulong/blob/main/developer.gif?raw=true" alt="Hey I'm zhanyulong">
 </p>
 <p align="center">
   <a href="https://twitter.com/zhanyuilong" target="_blank">
